@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Jenish Khunt
 
-<!--
-**jenishkhunt07/jenishkhunt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer with 4+ years of experience building scalable web applications, enterprise solutions, SaaS platforms, and modern digital products using Laravel, Node.js, React, and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* Laravel
+* PHP
+* Node.js
+* Express.js
+* REST APIs
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+
+### Database
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+
+### DevOps & Tools
+
+* Docker
+* AWS
+* Git & GitHub
+* Postman
+
+---
+
+## 🌟 Featured Projects
+
+* 🎓 Learning Management Systems (LMS)
+* 🏭 ERP & Manufacturing Solutions
+* 🛒 E-Commerce Platforms
+* ⚖️ AI-Powered Legal Tech Platforms
+* 🌍 Travel & Booking Systems
+* 📊 Business Automation Tools
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://jenish-khunt-portfolio.vercel.app
+
+💼 LinkedIn: https://www.linkedin.com/in/jenish-khunt-a5245b242/
+
+📧 Email: [jenishkhunt8@gmail.com](mailto:jenishkhunt8@gmail.com)
+
+---
+
+## 🎯 Current Focus
+
+* Enterprise Applications
+* SaaS Platforms
+* E-Commerce Solutions
+* LMS & ERP Systems
+* Scalable Backend Architectures
+* AI-Integrated Applications
+
+---
+
+> Building scalable digital products and transforming ideas into reliable software solutions.
